@@ -58,3 +58,5 @@ def total_gross(source)
   totals
 
 end
+
+puts total_gross(directors_database)
