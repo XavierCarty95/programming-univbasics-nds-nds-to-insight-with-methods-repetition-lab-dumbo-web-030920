@@ -47,10 +47,10 @@ def total_gross(source)
   # return the total
    totals = 0
    index  = 0
-   all_dir = directors_totals(source)
-
-
    
+
+
+
    while index < source.size do
 
      totals = gross_for_director(source[index])
