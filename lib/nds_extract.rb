@@ -49,7 +49,7 @@ def total_gross(source)
    index  = 0
    all_dir = directors_totals(source)
    total_length = list_of_directors(source)
-   while index < all_dir.length do
+   while index < total_length.length do
      totals += all_dir[list_of_directors]
      index +=  1
   end
