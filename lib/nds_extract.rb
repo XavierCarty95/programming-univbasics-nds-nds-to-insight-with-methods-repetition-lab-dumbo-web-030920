@@ -48,4 +48,4 @@ def total_gross(source)
 
 end
 
-puts list_of_directors(source)
+puts list_of_directors(directors_database)
